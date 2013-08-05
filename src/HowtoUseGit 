@@ -9,3 +9,11 @@ To Add to git hub
 2 choose push the repository
 3 Supply the http of the git repository 
 4 pick select "add all branchs spec" button 
+
+To import a github
+1 use import
+2 projects from git
+3 uri
+4 add https of project
+5 select where you want the code
+6 say ok to everything
